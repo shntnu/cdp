@@ -1,0 +1,18 @@
+Package: cdp
+Type: Package
+Title: Inspect CDP data
+Version: 0.1.0
+Author: Shantanu Singh
+Authors@R: as.person(
+    "Shantanu Singh <shsingh@broadinstitute.org> [aut, cre]"
+  )
+Description: Inspects CDP data
+License: BSD
+LazyData: TRUE
+Suggests:
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1
+URL: https://github.com/shntnu/cdp
+BugReports: https://github.com/shntnu/cdp/issues
